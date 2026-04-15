@@ -1,4 +1,4 @@
-### LLM Trustworthiness & Implicit Bias Evaluation
+# LLM Trustworthiness & Implicit Bias Evaluation
 ## Pipeline Overview
 This repository contains a semi-automated research pipeline designed to evaluate Instructional Scaling Laws, Implicit Bias, and Trustworthiness across 15 Large Language Models (LLMs). The study analyzes models from five major providers (Meta, Mistral, Google, Alibaba, Microsoft) categorized by parameter scale: Small ($<$4B), Medium (7B–14B), and Large ($>$20B).
 ## Research Methodology: Human-in-the-Loop (HITL)
