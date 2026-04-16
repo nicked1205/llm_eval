@@ -12,6 +12,7 @@ To ensure maximum academic rigor, this project utilizes a Semi-Automated Data La
 - API Access: A Hugging Face HF_TOKEN with access to Llama and Gemma model families.
 ## How to Run
 - Secure your HF_TOKEN in your environment secret.
+- Fill in forms for llama models (you will be prompted)
 - Run the notebook to execute the batch generation loop across all 15 models.
 - Export the resulting CSV for the Manual Audit Phase.
 - Re-import the cleaned data to produce the final statistical analysis and Scaling Law visualizations.
